@@ -3,8 +3,8 @@
 ### Processo de criação de imagem e container da aplicação
 
 - Build do Projeto
- dotnet publish --configuration Release --output dist
+    - dotnet publish --configuration Release --output dist
 - Criando imagem da aplicação
- docker build -t aspnetcorewebapi/app1:1.0 .
+    - docker build -t aspnetcorewebapi/app1:1.0 .
 - Criando container da aplicação
- docker container create -p 3000:80 --name webapi aspnetcorewebapi/app1:1.0
+    - docker container create -p 3000:80 --name webapi aspnetcorewebapi/app1:1.0
