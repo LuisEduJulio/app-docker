@@ -1,0 +1,11 @@
+/home/eduardo/Documentos/webapi/dist/webapi
+/home/eduardo/Documentos/webapi/dist/appsettings.Development.json
+/home/eduardo/Documentos/webapi/dist/appsettings.json
+/home/eduardo/Documentos/webapi/dist/webapi.dll
+/home/eduardo/Documentos/webapi/dist/webapi.deps.json
+/home/eduardo/Documentos/webapi/dist/webapi.runtimeconfig.json
+/home/eduardo/Documentos/webapi/dist/webapi.pdb
+/home/eduardo/Documentos/webapi/dist/Microsoft.OpenApi.dll
+/home/eduardo/Documentos/webapi/dist/Swashbuckle.AspNetCore.Swagger.dll
+/home/eduardo/Documentos/webapi/dist/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/eduardo/Documentos/webapi/dist/Swashbuckle.AspNetCore.SwaggerUI.dll
